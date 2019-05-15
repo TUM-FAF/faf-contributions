@@ -7,6 +7,8 @@ This repo was created to help new FAFers(and not only FAFers!) to learn how **VC
 
 If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
 
+**Note: If you faced any problem following this guide please create a [new issue](https://github.com/TUM-FAF/faf-contributions/issues/new) or contact me on str.dr4605@gmail.com or https://www.facebook.com/str.dr4605**
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
