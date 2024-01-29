@@ -7,4 +7,5 @@
 1. [Iulian Bercu FAF-211](https://github.com/BercuIulian)
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
+1. [Cristian Brinza FAF-212](https://github.com/CristianBrinza)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
