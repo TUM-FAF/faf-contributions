@@ -8,3 +8,6 @@
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
+1. [Andreea Manole FAF-212](https://github.com/andreeamnl)
+
+
