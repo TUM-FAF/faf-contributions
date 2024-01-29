@@ -4,4 +4,5 @@
 1. [Vdovicenco Alexandru FAF-151](https://github.com/ASV44) 
 1. [Calugari Alex FAF-181](https://github.com/afishr)
 1. [Diacenco Margareta FAF-171](https://github.com/ritaFAF)
+1. [Iulian Bercu FAF-211](https://github.com/BercuIulian)
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
