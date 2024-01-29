@@ -2,6 +2,7 @@
 1. [Flocea Dominic FAF-181](https://github.com/dominatorfaf)
 1. [Dragoș Străinu FAF-151](https://github.com/strdr4605)
 1. [Vdovicenco Alexandru FAF-151](https://github.com/ASV44) 
+1. [Andreea Manole FAF-212](https://github.com/andreeamnl)
 1. [Calugari Alex FAF-181](https://github.com/afishr)
 1. [Diacenco Margareta FAF-171](https://github.com/ritaFAF)
 1. [Iulian Bercu FAF-211](https://github.com/BercuIulian)
@@ -9,6 +10,8 @@
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
 1. [Lesenco Maria FAF-212](https://github.com/LY-MC)
-1. [Andreea Manole FAF-212](https://github.com/andreeamnl)
+1. [Nastas Corneliu FAF-212](https://github.com/binaryarchivist)
+1. [Frunze Vladislav FAF-212](https://github.com/Frunnze)
 
 
+    
