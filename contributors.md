@@ -9,3 +9,4 @@
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
 1. [Smocvin Denis FAF-212](https://github.com/JustLearningThings)
+1. [Lesenco Maria FAF-212](https://github.com/LY-MC)
