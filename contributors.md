@@ -1,10 +1,12 @@
 # Contributors
+
 1. [Flocea Dominic FAF-181](https://github.com/dominatorfaf)
 1. [Dragoș Străinu FAF-151](https://github.com/strdr4605)
-1. [Vdovicenco Alexandru FAF-151](https://github.com/ASV44) 
+1. [Vdovicenco Alexandru FAF-151](https://github.com/ASV44)
 1. [Calugari Alex FAF-181](https://github.com/afishr)
 1. [Diacenco Margareta FAF-171](https://github.com/ritaFAF)
 1. [Iulian Bercu FAF-211](https://github.com/BercuIulian)
+1. [Zlatovcen Bogdan FAF-212](https://github.com/bogdan-404)
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
