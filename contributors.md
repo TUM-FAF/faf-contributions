@@ -8,6 +8,7 @@
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cristian Brinza FAF-212](https://github.com/CristianBrinza)
+1. [Gutu Dinu FAF-213](https://github.com/Grena30)
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
 1. [Botnari Ciprian FAF-213](https://github.com/Sufferal/)
 1. [Crucerescu Vladislav FAF-212](https://github.com/Rescyy)
