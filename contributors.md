@@ -13,6 +13,7 @@
 1. [Cunev Anastasia FAF-211](https://github.com/NastiaCu)
 1. [Botnari Ciprian FAF-213](https://github.com/Sufferal/)
 1. [Crucerescu Vladislav FAF-212](https://github.com/Rescyy)
+1. [Cojuhari Milena FAF-213](https://github.com/zly-VON)
 1. [Lesenco Maria FAF-212](https://github.com/LY-MC)
 1. [Nastas Corneliu FAF-212](https://github.com/binaryarchivist)
 1. [Iatco Sorin FAF-213](https://github.com/Syn4z)
