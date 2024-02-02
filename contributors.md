@@ -12,4 +12,5 @@
 1. [Crucerescu Vladislav FAF-212](https://github.com/Rescyy)
 1. [Lesenco Maria FAF-212](https://github.com/LY-MC)
 1. [Nastas Corneliu FAF-212](https://github.com/binaryarchivist)
+1. [Iatco Sorin FAF-213](https://github.com/Syn4z)
 1. [Frunze Vladislav FAF-212](https://github.com/Frunnze)
