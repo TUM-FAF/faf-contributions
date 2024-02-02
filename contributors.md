@@ -6,6 +6,7 @@
 1. [Diacenco Margareta FAF-171](https://github.com/ritaFAF)
 1. [Iulian Bercu FAF-211](https://github.com/BercuIulian)
 1. [Furdui Alexandru FAF-213](https://github.com/SanduF)
+1. [Cucos Emanuil Faf-213] (https://github.com/EjnarRaidriar)
 1. [Prodan Rodica FAF-211](https://github.com/Rodica24)
 1. [Cristian Brinza FAF-212](https://github.com/CristianBrinza)
 1. [Gutu Dinu FAF-213](https://github.com/Grena30)
