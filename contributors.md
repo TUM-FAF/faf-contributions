@@ -13,3 +13,4 @@
 1. [Lesenco Maria FAF-212](https://github.com/LY-MC)
 1. [Nastas Corneliu FAF-212](https://github.com/binaryarchivist)
 1. [Frunze Vladislav FAF-212](https://github.com/Frunnze)
+1. [Tudor Sirghi FAF-213](https://github.com/TudorSIRGHI)
