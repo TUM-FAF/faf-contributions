@@ -20,3 +20,4 @@
 1. [Iatco Sorin FAF-213](https://github.com/Syn4z)
 1. [Frunze Vladislav FAF-212](https://github.com/Frunnze)
 1. [Tudor Sirghi FAF-213](https://github.com/TudorSIRGHI)
+1. [Gîtlan Gabriel FAF-213](https://github.com/5anji)
